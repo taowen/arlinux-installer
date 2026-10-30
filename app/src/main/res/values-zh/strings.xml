@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ARLinux 安装器</string>
+    <string name="intro">通过 GitHub 加速线路并发下载完整版 ARLinux。下载完成后，由安卓系统确认安装并替换此安装器。</string>
+    <string name="install">安装 ARLinux</string>
+    <string name="retry">重试</string>
+    <string name="cancel">取消下载</string>
+    <string name="checking">正在检查最新版本…</string>
+    <string name="comparing">正在比较 GitHub 下载线路…</string>
+    <string name="downloading">已下载 %1$d / %2$d MiB · %3$d%%</string>
+    <string name="verifying">正在校验文件和签名…</string>
+    <string name="ready">下载校验通过，安装 ARLinux 后将替换此安装器。</string>
+    <string name="failed">下载失败，请重试。
+%1$s</string>
+    <string name="permission">请允许此应用安装软件，然后返回这里，点击“安装 ARLinux”。</string>
+    <string name="cancelled">下载已暂停，点击“安装 ARLinux”可继续。</string>
+    <string name="signature_error">下载的 APK 包名或签名与 ARLinux 不一致。</string>
+    <string name="website">arlinux.com</string>
+</resources>

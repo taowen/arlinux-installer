@@ -1,0 +1,19 @@
+<resources>
+    <string name="idle"></string>
+    <string name="app_name">ARLinux Installer</string>
+    <string name="intro">Install the full ARLinux app with accelerated, parallel downloads from GitHub. Android will ask you to confirm installation.</string>
+    <string name="install">Install ARLinux</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel download</string>
+    <string name="checking">Checking the latest release…</string>
+    <string name="comparing">Comparing GitHub download routes…</string>
+    <string name="downloading">Downloading %1$d / %2$d MiB · %3$d%%</string>
+    <string name="verifying">Verifying download and signature…</string>
+    <string name="ready">Download verified. Install ARLinux to replace this installer.</string>
+    <string name="failed">Download failed. Please retry.
+%1$s</string>
+    <string name="permission">Allow installation from this app, then return here and tap Install ARLinux.</string>
+    <string name="cancelled">Download paused. Tap Install ARLinux to resume.</string>
+    <string name="signature_error">The downloaded APK does not match the ARLinux package or signing certificate.</string>
+    <string name="website">arlinux.com</string>
+</resources>
